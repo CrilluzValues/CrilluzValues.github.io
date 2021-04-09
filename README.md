@@ -1,2 +1,1 @@
-# CrilluzValues.github.io
-Straight up yoinked SapplyValues.
+I just straight up yoinked SapplyValues
