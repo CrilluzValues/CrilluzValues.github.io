@@ -10,12 +10,12 @@ questions =  [
     {"id": 7, "question": "Short term gains are not worth it.", "effects": {"right": 1}},
 
     //Bluepilled
-    {"id": 8, "question": "The holocaust never happened.", "effects": {"right": -1}},
+    {"id": 8, "question": "Hitler did nothing wrong.", "effects": {"right": -1}},
     {"id": 9, "question": "We can trust corporations to implement their own environmental regulations without government interference.", "effects": {"right": -1}},
     {"id": 10, "question": "COVID is a hoax used to control our population.", "effects": {"right": -1}},
     {"id": 11, "question": "Owning expensive clothing, 'Drip', is desirable.", "effects": {"right": -1}},
     {"id": 12, "question": "Every person is equal.", "effects": {"right": -1}},
-    {"id": 13, "question": "Social Dawninism is a good system.", "effects": {"right": -1}},
+    {"id": 13, "question": "Social Darwinism is a good system.", "effects": {"right": -1}},
     {"id": 14, "question": "The existence of minorities is a threat to our race.", "effects": {"right": 1}},
 
    //Good
